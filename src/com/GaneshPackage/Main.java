@@ -6,5 +6,6 @@ public class Main {
         int x =10;
 	System.out.println("Hi Ganesh");
 	x=15;
+	x=10;
     }
 }
