@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IntelliJPlay:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntelliJPlay_jar</output-path>
+    <root id="archive" name="IntelliJPlay.jar">
+      <element id="module-output" name="IntelliJPlay" />
+    </root>
+  </artifact>
+</component>
